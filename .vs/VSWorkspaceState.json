@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\application_logging",
+    "\\best_model_finder"
+  ],
+  "SelectedNode": "\\best_model_finder\\tuner.py",
+  "PreviewInSolutionExplorer": false
+}
